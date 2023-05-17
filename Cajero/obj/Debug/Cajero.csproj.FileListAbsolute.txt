@@ -1,0 +1,8 @@
+C:\Users\richa\source\repos\Cajero\Cajero\bin\Debug\Cajero.exe.config
+C:\Users\richa\source\repos\Cajero\Cajero\bin\Debug\Cajero.exe
+C:\Users\richa\source\repos\Cajero\Cajero\bin\Debug\Cajero.pdb
+C:\Users\richa\source\repos\Cajero\Cajero\obj\Debug\Cajero.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\Cajero\Cajero\obj\Debug\Cajero.csproj.SuggestedBindingRedirects.cache
+C:\Users\richa\source\repos\Cajero\Cajero\obj\Debug\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Cajero\Cajero\obj\Debug\Cajero.exe
+C:\Users\richa\source\repos\Cajero\Cajero\obj\Debug\Cajero.pdb
